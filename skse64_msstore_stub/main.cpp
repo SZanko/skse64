@@ -3,7 +3,7 @@
 #include "skse64_loader_common/IdentifyEXE.h"
 #include "skse64_loader_common/LoaderError.h"
 #include "skse64_loader_common/Inject.h"
-#include <ShlObj.h>
+#include <shlobj.h>
 
 IDebugLog	gLog;
 HANDLE		g_dllHandle;
