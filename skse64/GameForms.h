@@ -643,7 +643,7 @@ public:
 	TESFullName     fullName;       // 20
 
 	union {
-		struct Color {
+		struct {
 			UInt8   red, green, blue, alpha; // The alpha isn't actually used here so its usually zero
 		} color;
 		UInt32 abgr;    // 30

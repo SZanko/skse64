@@ -1,4 +1,4 @@
-#include <ShlObj.h>
+#include <shlobj.h>
 #include "skse64_common/skse_version.h"
 #include "skse64_common/Utilities.h"
 #include "skse64_loader_common/LoaderError.h"

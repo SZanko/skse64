@@ -1,4 +1,4 @@
-#include <shobjidl_core.h>
+#include <ShObjIdl_core.h>
 #include <shlobj_core.h>
 #include <objidl.h>
 #include "skse64_loader_common/Inject.h"
