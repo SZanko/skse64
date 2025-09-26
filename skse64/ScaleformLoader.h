@@ -1,6 +1,7 @@
 #pragma once
 
 #include "skse64/ScaleformState.h"
+#include <cstdint>
 
 class NiTexture;
 class IMenu;
