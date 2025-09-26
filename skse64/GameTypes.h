@@ -1,5 +1,6 @@
 #pragma once
 
+#include <cstdint>
 #include "skse64_common/Utilities.h"
 #include "skse64/GameAPI.h"
 

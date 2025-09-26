@@ -1,6 +1,7 @@
 #pragma once
 
 #include "skse64_common/Utilities.h"
+#include <cstdint>
 
 class PlayerCharacter;
 
